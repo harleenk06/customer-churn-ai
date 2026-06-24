@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Tenure,MonthlyCharges,ContractType,InternetService,SupportCalls,PaymentMethod,Churn
+1001,56,Male,70,36,One Year,DSL,2,Credit Card,No
+1002,69,Female,39,89,Month-to-Month,DSL,2,Credit Card,No
+1003,46,Male,56,23,Month-to-Month,Fiber,1,Credit Card,Yes
+1004,32,Female,63,39,One Year,DSL,3,Credit Card,Yes
+1005,60,Male,46,66,Month-to-Month,Fiber,3,Bank Transfer,No
+1006,25,Male,11,110,Month-to-Month,DSL,2,E-Wallet,Yes
+1007,38,Female,62,34,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1008,56,Male,25,89,Month-to-Month,DSL,1,UPI,Yes
+1009,36,Male,71,66,One Year,Fiber,1,Bank Transfer,Yes
+1010,40,Male,52,97,Month-to-Month,DSL,5,Credit Card,Yes
+1011,28,Male,4,94,One Year,Fiber,1,Bank Transfer,Yes
+1012,28,Male,59,28,Month-to-Month,Fiber,3,Credit Card,Yes
+1013,41,Male,72,109,Month-to-Month,Fiber,2,Bank Transfer,Yes
+1014,70,Female,20,35,Month-to-Month,Fiber,3,Credit Card,No
+1015,53,Male,63,88,Month-to-Month,DSL,4,UPI,Yes
+1016,57,Male,54,80,Month-to-Month,Fiber,3,Credit Card,No
+1017,41,Female,57,29,One Year,None,3,Bank Transfer,No
+1018,20,Female,41,69,Month-to-Month,None,2,UPI,No
+1019,39,Female,3,22,Two Year,DSL,3,Bank Transfer,No
+1020,70,Female,6,96,Month-to-Month,Fiber,2,UPI,Yes
+1021,19,Female,5,113,Month-to-Month,Fiber,2,E-Wallet,Yes
+1022,41,Female,5,89,One Year,DSL,5,E-Wallet,Yes
+1023,61,Female,54,100,Month-to-Month,Fiber,4,E-Wallet,Yes
+1024,47,Male,47,70,Month-to-Month,Fiber,1,Bank Transfer,No
+1025,55,Male,49,38,Month-to-Month,DSL,2,Bank Transfer,Yes
+1026,19,Female,9,61,Month-to-Month,DSL,3,UPI,No
+1027,38,Male,20,54,Two Year,DSL,2,UPI,Yes
+1028,50,Male,61,65,Month-to-Month,Fiber,2,UPI,No
+1029,29,Male,35,45,One Year,DSL,0,UPI,No
+1030,39,Female,50,88,Two Year,Fiber,3,Credit Card,No
+1031,61,Female,62,112,Month-to-Month,Fiber,2,E-Wallet,Yes
+1032,42,Male,17,83,Two Year,DSL,3,Credit Card,No
+1033,66,Female,3,56,Month-to-Month,Fiber,2,Credit Card,Yes
+1034,44,Male,32,103,Two Year,Fiber,3,Credit Card,No
+1035,59,Male,13,68,Month-to-Month,Fiber,2,Credit Card,Yes
+1036,45,Male,68,40,One Year,DSL,2,E-Wallet,No
+1037,33,Male,14,93,Month-to-Month,DSL,2,Credit Card,Yes
+1038,32,Female,11,83,Month-to-Month,DSL,3,UPI,Yes
+1039,64,Female,56,24,One Year,DSL,2,Bank Transfer,No
+1040,68,Female,67,119,One Year,Fiber,1,UPI,No
+1041,61,Male,29,89,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1042,72,Female,9,109,Month-to-Month,Fiber,3,UPI,Yes
+1043,69,Male,67,23,One Year,Fiber,0,UPI,No
+1044,74,Female,25,58,One Year,Fiber,0,Bank Transfer,Yes
+1045,20,Male,42,54,Two Year,None,3,E-Wallet,No
+1046,54,Male,9,20,One Year,Fiber,2,Credit Card,Yes
+1047,68,Male,40,43,Two Year,Fiber,2,UPI,No
+1048,24,Female,25,76,One Year,Fiber,0,E-Wallet,No
+1049,38,Female,5,119,Month-to-Month,Fiber,2,Credit Card,Yes
+1050,26,Female,11,89,Month-to-Month,None,1,E-Wallet,Yes
+1051,56,Female,59,60,One Year,Fiber,2,E-Wallet,No
+1052,35,Male,38,73,One Year,Fiber,3,Credit Card,No
+1053,21,Female,72,65,Month-to-Month,DSL,1,UPI,No
+1054,42,Female,5,79,Month-to-Month,Fiber,5,E-Wallet,Yes
+1055,31,Male,48,79,Two Year,Fiber,1,UPI,No
+1056,67,Male,18,76,Month-to-Month,Fiber,2,UPI,Yes
+1057,26,Male,70,50,Month-to-Month,DSL,2,UPI,No
+1058,43,Female,37,103,Month-to-Month,None,1,Credit Card,Yes
+1059,70,Male,60,43,Month-to-Month,DSL,3,Bank Transfer,Yes
+1060,19,Male,48,108,Month-to-Month,Fiber,1,UPI,Yes
+1061,37,Male,28,55,Month-to-Month,DSL,1,Bank Transfer,Yes
+1062,45,Female,69,104,Month-to-Month,Fiber,1,Bank Transfer,No
+1063,64,Male,40,49,One Year,Fiber,1,E-Wallet,No
+1064,24,Female,45,43,Month-to-Month,Fiber,4,UPI,Yes
+1065,61,Female,62,49,Two Year,Fiber,0,UPI,No
+1066,25,Male,58,105,Two Year,DSL,1,UPI,No
+1067,64,Male,67,111,Month-to-Month,DSL,1,Bank Transfer,Yes
+1068,52,Female,56,26,One Year,None,1,Credit Card,No
+1069,31,Male,40,54,Month-to-Month,DSL,1,Bank Transfer,No
+1070,34,Male,40,74,Two Year,DSL,1,UPI,No
+1071,53,Female,33,111,Month-to-Month,Fiber,0,UPI,Yes
+1072,67,Female,6,33,One Year,Fiber,3,UPI,Yes
+1073,57,Male,19,29,One Year,DSL,0,Bank Transfer,No
+1074,21,Female,40,99,Month-to-Month,Fiber,3,UPI,No
+1075,19,Male,59,35,Month-to-Month,DSL,1,E-Wallet,No
+1076,23,Male,59,73,One Year,Fiber,6,UPI,No
+1077,71,Male,48,114,One Year,Fiber,1,Credit Card,No
+1078,59,Female,41,108,Month-to-Month,Fiber,2,E-Wallet,No
+1079,21,Male,13,96,One Year,Fiber,1,UPI,Yes
+1080,71,Male,45,89,Month-to-Month,Fiber,1,E-Wallet,Yes
+1081,46,Male,53,63,One Year,DSL,4,UPI,No
+1082,35,Female,42,92,Month-to-Month,Fiber,1,Credit Card,Yes
+1083,43,Female,63,64,Two Year,DSL,2,UPI,No
+1084,61,Female,27,119,Month-to-Month,Fiber,3,E-Wallet,Yes
+1085,51,Female,38,75,Month-to-Month,Fiber,0,Credit Card,No
+1086,27,Female,60,103,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1087,53,Male,7,101,Month-to-Month,DSL,1,Credit Card,Yes
+1088,31,Female,5,76,Month-to-Month,Fiber,1,Credit Card,Yes
+1089,48,Female,45,40,Month-to-Month,DSL,3,Credit Card,No
+1090,65,Female,58,87,Two Year,Fiber,1,E-Wallet,No
+1091,32,Male,31,69,Month-to-Month,DSL,2,Credit Card,Yes
+1092,25,Female,23,52,Month-to-Month,Fiber,3,UPI,No
+1093,31,Female,42,110,Month-to-Month,DSL,1,Credit Card,Yes
+1094,40,Male,10,26,Month-to-Month,DSL,2,Credit Card,No
+1095,74,Female,32,89,Month-to-Month,None,3,UPI,Yes
+1096,57,Male,53,34,Month-to-Month,Fiber,1,UPI,No
+1097,38,Male,30,101,Month-to-Month,Fiber,2,Bank Transfer,Yes
+1098,33,Male,39,51,Month-to-Month,Fiber,3,Credit Card,No
+1099,62,Male,31,94,Month-to-Month,DSL,2,E-Wallet,No
+1100,35,Male,2,39,One Year,DSL,0,Credit Card,Yes
+1101,64,Female,12,107,Month-to-Month,DSL,3,Credit Card,Yes
+1102,70,Male,39,34,Month-to-Month,Fiber,2,UPI,Yes
+1103,41,Male,66,67,Two Year,Fiber,2,Bank Transfer,No
+1104,43,Female,13,90,Month-to-Month,Fiber,0,Credit Card,Yes
+1105,42,Male,46,40,One Year,None,1,E-Wallet,No
+1106,62,Female,27,61,Month-to-Month,DSL,0,Credit Card,No
+1107,58,Female,17,45,One Year,None,1,E-Wallet,Yes
+1108,46,Female,60,33,One Year,Fiber,1,UPI,No
+1109,32,Male,64,76,Month-to-Month,DSL,2,Bank Transfer,No
+1110,62,Male,35,56,Two Year,DSL,3,Credit Card,No
+1111,18,Male,70,77,Month-to-Month,Fiber,3,Bank Transfer,Yes
+1112,42,Female,30,40,Month-to-Month,DSL,2,Credit Card,Yes
+1113,24,Male,71,101,One Year,None,2,E-Wallet,No
+1114,26,Male,63,88,Two Year,DSL,4,Bank Transfer,Yes
+1115,41,Male,28,22,Month-to-Month,DSL,1,Credit Card,No
+1116,18,Female,60,106,Month-to-Month,Fiber,3,UPI,No
+1117,61,Female,37,109,Month-to-Month,Fiber,3,E-Wallet,Yes
+1118,25,Male,22,56,Month-to-Month,None,4,Bank Transfer,Yes
+1119,41,Male,68,107,One Year,Fiber,2,Credit Card,No
+1120,28,Male,20,68,Month-to-Month,DSL,4,Bank Transfer,Yes
+1121,68,Male,68,38,Month-to-Month,DSL,3,Credit Card,No
+1122,34,Female,64,108,Month-to-Month,DSL,2,E-Wallet,No
+1123,25,Female,17,104,Month-to-Month,None,3,UPI,Yes
+1124,52,Female,12,31,Month-to-Month,Fiber,2,E-Wallet,Yes
+1125,52,Female,22,80,One Year,Fiber,2,Bank Transfer,No
+1126,50,Male,17,60,Two Year,Fiber,4,Bank Transfer,No
+1127,22,Male,10,52,Two Year,Fiber,4,Credit Card,Yes
+1128,59,Male,65,69,Month-to-Month,Fiber,1,E-Wallet,Yes
+1129,56,Female,22,87,Two Year,Fiber,1,Credit Card,No
+1130,58,Male,50,90,One Year,DSL,0,E-Wallet,No
+1131,45,Female,14,105,One Year,None,3,Bank Transfer,Yes
+1132,24,Female,64,52,Month-to-Month,Fiber,1,Credit Card,No
+1133,26,Male,47,100,Month-to-Month,Fiber,6,Credit Card,Yes
+1134,25,Male,29,43,Month-to-Month,None,1,E-Wallet,Yes
+1135,29,Male,36,80,Month-to-Month,Fiber,1,UPI,Yes
+1136,51,Female,52,80,Month-to-Month,Fiber,3,E-Wallet,No
+1137,50,Male,7,117,Month-to-Month,Fiber,3,UPI,Yes
+1138,65,Female,29,47,Month-to-Month,DSL,0,E-Wallet,Yes
+1139,72,Male,11,77,One Year,Fiber,2,Bank Transfer,Yes
+1140,40,Female,33,62,Month-to-Month,None,1,Credit Card,Yes
+1141,41,Female,6,60,Month-to-Month,Fiber,3,E-Wallet,Yes
+1142,54,Male,32,58,Two Year,DSL,1,Bank Transfer,Yes
+1143,52,Female,51,105,Two Year,Fiber,3,E-Wallet,No
+1144,61,Female,58,68,One Year,Fiber,5,Credit Card,Yes
+1145,57,Male,26,36,Two Year,DSL,0,E-Wallet,No
+1146,39,Female,46,117,Month-to-Month,DSL,1,UPI,Yes
+1147,44,Male,29,89,Two Year,DSL,2,Credit Card,No
+1148,52,Female,4,89,Month-to-Month,DSL,1,UPI,Yes
+1149,18,Male,13,117,Month-to-Month,None,5,Bank Transfer,Yes
+1150,52,Male,39,84,Month-to-Month,DSL,1,Bank Transfer,Yes
+1151,54,Female,15,93,Month-to-Month,DSL,3,E-Wallet,Yes
+1152,64,Female,29,104,Month-to-Month,Fiber,2,UPI,Yes
+1153,31,Female,29,24,One Year,Fiber,2,UPI,No
+1154,20,Female,32,21,One Year,Fiber,0,Credit Card,No
+1155,18,Female,2,41,One Year,DSL,2,UPI,Yes
+1156,22,Male,47,76,Month-to-Month,Fiber,2,UPI,No
+1157,43,Female,22,85,Two Year,Fiber,4,Credit Card,Yes
+1158,72,Male,27,93,One Year,DSL,0,Credit Card,No
+1159,31,Male,67,117,Month-to-Month,DSL,3,UPI,Yes
+1160,56,Female,56,35,One Year,None,3,E-Wallet,No
+1161,44,Male,21,70,Month-to-Month,Fiber,3,Credit Card,Yes
+1162,26,Male,47,58,Month-to-Month,DSL,2,Credit Card,Yes
+1163,32,Male,59,105,Two Year,Fiber,0,UPI,No
+1164,32,Male,6,95,Month-to-Month,Fiber,2,UPI,Yes
+1165,43,Female,19,107,Month-to-Month,Fiber,2,Credit Card,Yes
+1166,59,Male,57,59,Two Year,Fiber,1,UPI,No
+1167,30,Female,69,57,One Year,Fiber,0,Credit Card,No
+1168,68,Female,3,79,Month-to-Month,DSL,0,E-Wallet,Yes
+1169,49,Male,1,78,Month-to-Month,Fiber,1,E-Wallet,Yes
+1170,56,Female,58,29,Month-to-Month,DSL,0,Credit Card,No
+1171,66,Female,38,118,One Year,DSL,2,Credit Card,Yes
+1172,69,Female,15,83,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1173,49,Male,34,82,Month-to-Month,Fiber,3,Bank Transfer,Yes
+1174,21,Female,61,68,Two Year,Fiber,1,UPI,No
+1175,47,Female,35,83,Month-to-Month,DSL,1,UPI,Yes
+1176,54,Female,64,51,Month-to-Month,Fiber,6,Credit Card,Yes
+1177,40,Male,25,26,Month-to-Month,Fiber,3,Credit Card,Yes
+1178,56,Female,24,40,One Year,Fiber,1,Bank Transfer,No
+1179,62,Male,12,39,Month-to-Month,DSL,1,Bank Transfer,Yes
+1180,32,Male,18,45,Month-to-Month,None,4,Credit Card,Yes
+1181,60,Male,15,87,Two Year,Fiber,3,E-Wallet,No
+1182,46,Male,27,105,Month-to-Month,DSL,0,E-Wallet,Yes
+1183,53,Male,72,34,Month-to-Month,DSL,0,UPI,Yes
+1184,30,Male,60,104,Month-to-Month,None,3,Credit Card,Yes
+1185,49,Female,46,98,Month-to-Month,DSL,3,Credit Card,No
+1186,24,Male,17,105,Month-to-Month,DSL,4,UPI,Yes
+1187,68,Female,53,111,Month-to-Month,DSL,2,Bank Transfer,Yes
+1188,39,Female,8,33,Month-to-Month,DSL,1,Bank Transfer,Yes
+1189,45,Male,27,46,Month-to-Month,Fiber,4,E-Wallet,Yes
+1190,19,Female,46,59,Two Year,Fiber,2,Credit Card,No
+1191,59,Female,50,77,Two Year,Fiber,1,Bank Transfer,No
+1192,62,Female,71,47,One Year,DSL,2,E-Wallet,No
+1193,74,Female,3,45,Two Year,DSL,2,E-Wallet,No
+1194,70,Male,64,82,Month-to-Month,Fiber,2,E-Wallet,No
+1195,23,Female,44,85,Two Year,DSL,1,Bank Transfer,No
+1196,45,Male,53,44,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1197,45,Female,24,22,Two Year,Fiber,3,Credit Card,No
+1198,61,Female,60,91,Two Year,None,4,Credit Card,No
+1199,61,Male,3,63,One Year,Fiber,6,E-Wallet,Yes
+1200,37,Female,20,116,Two Year,Fiber,4,E-Wallet,No
+1201,47,Female,46,61,One Year,DSL,2,Bank Transfer,No
+1202,28,Female,15,118,Month-to-Month,DSL,1,Bank Transfer,Yes
+1203,72,Male,25,25,Month-to-Month,Fiber,4,Credit Card,Yes
+1204,45,Female,71,58,One Year,DSL,2,Credit Card,Yes
+1205,42,Male,17,71,Month-to-Month,DSL,3,UPI,Yes
+1206,56,Female,9,42,One Year,Fiber,2,Credit Card,Yes
+1207,50,Male,38,108,Two Year,Fiber,3,Bank Transfer,No
+1208,18,Male,48,69,Month-to-Month,DSL,0,E-Wallet,Yes
+1209,74,Female,60,62,One Year,Fiber,2,UPI,No
+1210,44,Female,63,38,Two Year,None,2,Credit Card,No
+1211,74,Male,2,88,Two Year,DSL,2,Credit Card,No
+1212,69,Male,72,70,Two Year,None,3,Bank Transfer,No
+1213,30,Female,11,30,Month-to-Month,Fiber,2,UPI,No
+1214,58,Male,64,31,Two Year,None,2,Credit Card,No
+1215,20,Female,72,93,One Year,Fiber,3,E-Wallet,No
+1216,56,Female,21,27,Month-to-Month,Fiber,5,Bank Transfer,Yes
+1217,23,Female,18,43,Month-to-Month,Fiber,3,UPI,No
+1218,25,Female,64,111,One Year,Fiber,0,Credit Card,Yes
+1219,44,Male,38,60,Month-to-Month,DSL,2,Credit Card,No
+1220,26,Female,32,55,One Year,Fiber,3,UPI,No
+1221,54,Male,11,120,One Year,Fiber,2,Bank Transfer,Yes
+1222,50,Female,45,104,Month-to-Month,DSL,3,UPI,Yes
+1223,68,Male,33,91,One Year,Fiber,2,UPI,Yes
+1224,59,Female,41,74,One Year,DSL,0,Bank Transfer,No
+1225,61,Male,8,28,Month-to-Month,Fiber,2,Credit Card,Yes
+1226,41,Male,11,66,Month-to-Month,DSL,1,E-Wallet,Yes
+1227,32,Female,51,34,Month-to-Month,DSL,2,Bank Transfer,Yes
+1228,71,Female,41,67,Month-to-Month,Fiber,2,E-Wallet,No
+1229,49,Female,17,101,Two Year,Fiber,4,Credit Card,Yes
+1230,49,Female,46,61,Month-to-Month,Fiber,0,UPI,No
+1231,41,Male,32,79,One Year,DSL,2,E-Wallet,No
+1232,58,Female,54,103,Month-to-Month,Fiber,0,Credit Card,Yes
+1233,69,Male,20,89,Month-to-Month,Fiber,0,Credit Card,Yes
+1234,66,Male,33,31,Two Year,Fiber,1,UPI,No
+1235,66,Female,40,21,One Year,Fiber,2,UPI,No
+1236,69,Male,32,26,Month-to-Month,Fiber,0,Credit Card,Yes
+1237,29,Male,2,99,Month-to-Month,DSL,1,Credit Card,Yes
+1238,56,Male,33,22,Month-to-Month,Fiber,4,E-Wallet,Yes
+1239,19,Male,30,22,Month-to-Month,Fiber,3,Credit Card,Yes
+1240,20,Female,33,46,One Year,DSL,4,Credit Card,Yes
+1241,66,Female,26,59,Month-to-Month,DSL,2,E-Wallet,Yes
+1242,54,Female,22,52,Month-to-Month,Fiber,2,Bank Transfer,Yes
+1243,66,Female,66,111,Month-to-Month,Fiber,2,E-Wallet,No
+1244,73,Male,38,20,Two Year,Fiber,1,E-Wallet,No
+1245,34,Male,46,27,Two Year,None,1,UPI,No
+1246,66,Female,15,120,Month-to-Month,Fiber,1,E-Wallet,Yes
+1247,19,Female,44,51,One Year,None,1,Credit Card,No
+1248,19,Female,49,67,Month-to-Month,DSL,3,Credit Card,No
+1249,45,Male,61,120,Month-to-Month,DSL,2,Credit Card,Yes
+1250,71,Female,67,23,One Year,Fiber,2,Bank Transfer,Yes
+1251,40,Female,6,113,Two Year,Fiber,2,Credit Card,Yes
+1252,54,Female,9,89,Two Year,Fiber,0,Bank Transfer,No
+1253,49,Male,6,38,One Year,Fiber,1,Credit Card,Yes
+1254,50,Male,32,51,Month-to-Month,DSL,4,E-Wallet,Yes
+1255,18,Male,41,28,One Year,None,2,UPI,No
+1256,36,Male,8,31,Month-to-Month,DSL,4,Credit Card,Yes
+1257,19,Male,72,30,One Year,DSL,4,Bank Transfer,No
+1258,70,Male,50,65,Month-to-Month,Fiber,2,Bank Transfer,No
+1259,61,Male,62,35,One Year,Fiber,1,UPI,No
+1260,43,Male,62,20,Month-to-Month,Fiber,3,Credit Card,Yes
+1261,49,Female,7,82,Month-to-Month,DSL,3,E-Wallet,Yes
+1262,23,Female,4,40,Two Year,None,1,Credit Card,No
+1263,49,Male,6,49,Month-to-Month,DSL,1,Credit Card,Yes
+1264,72,Male,58,32,Month-to-Month,Fiber,4,UPI,Yes
+1265,21,Female,22,53,Month-to-Month,Fiber,1,Credit Card,Yes
+1266,72,Male,26,23,Month-to-Month,DSL,4,E-Wallet,Yes
+1267,28,Male,3,47,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1268,73,Male,41,114,Month-to-Month,DSL,3,UPI,Yes
+1269,34,Female,60,78,Two Year,DSL,3,E-Wallet,No
+1270,55,Female,14,46,Month-to-Month,DSL,3,Bank Transfer,Yes
+1271,41,Female,12,88,Two Year,Fiber,2,UPI,No
+1272,22,Female,12,44,One Year,Fiber,1,UPI,No
+1273,69,Female,13,22,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1274,51,Male,25,116,One Year,Fiber,2,Bank Transfer,Yes
+1275,23,Female,45,87,Month-to-Month,Fiber,2,E-Wallet,Yes
+1276,39,Male,19,44,One Year,DSL,2,Credit Card,No
+1277,28,Male,55,39,Month-to-Month,DSL,3,Credit Card,No
+1278,65,Female,45,53,Month-to-Month,Fiber,3,Credit Card,No
+1279,33,Female,8,45,Two Year,Fiber,1,Credit Card,No
+1280,50,Male,53,24,Two Year,Fiber,2,Credit Card,No
+1281,26,Male,55,118,Two Year,Fiber,1,E-Wallet,No
+1282,23,Male,32,80,Month-to-Month,DSL,2,UPI,Yes
+1283,33,Female,51,111,One Year,Fiber,0,E-Wallet,No
+1284,46,Female,44,112,Month-to-Month,Fiber,1,E-Wallet,Yes
+1285,20,Female,70,28,Month-to-Month,Fiber,1,E-Wallet,No
+1286,37,Female,18,69,Month-to-Month,DSL,2,UPI,Yes
+1287,53,Female,22,25,One Year,DSL,1,E-Wallet,No
+1288,36,Male,37,102,Month-to-Month,Fiber,1,E-Wallet,Yes
+1289,43,Female,56,79,Month-to-Month,DSL,2,UPI,No
+1290,20,Male,59,63,Two Year,DSL,4,E-Wallet,No
+1291,36,Male,3,30,Month-to-Month,None,0,Credit Card,Yes
+1292,37,Male,28,85,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1293,49,Female,35,66,Month-to-Month,DSL,4,E-Wallet,Yes
+1294,24,Female,61,92,Two Year,None,2,Bank Transfer,No
+1295,69,Female,54,104,Month-to-Month,None,1,E-Wallet,Yes
+1296,58,Male,63,107,Month-to-Month,DSL,1,E-Wallet,No
+1297,50,Male,7,117,Two Year,DSL,3,Credit Card,Yes
+1298,57,Male,49,105,Two Year,Fiber,1,UPI,No
+1299,56,Male,31,22,Month-to-Month,DSL,3,Bank Transfer,Yes
+1300,35,Male,58,95,One Year,DSL,3,UPI,No
+1301,57,Male,61,111,One Year,DSL,2,Credit Card,No
+1302,18,Female,24,49,One Year,Fiber,2,Credit Card,No
+1303,28,Female,20,109,Month-to-Month,DSL,4,Bank Transfer,Yes
+1304,45,Female,37,40,Two Year,DSL,1,UPI,No
+1305,74,Female,4,47,Month-to-Month,Fiber,1,Credit Card,Yes
+1306,42,Male,20,109,Month-to-Month,DSL,2,E-Wallet,No
+1307,67,Male,60,81,Month-to-Month,DSL,1,E-Wallet,No
+1308,40,Female,24,52,Month-to-Month,DSL,3,E-Wallet,No
+1309,48,Male,50,104,Month-to-Month,Fiber,3,UPI,Yes
+1310,47,Female,49,54,One Year,Fiber,4,E-Wallet,No
+1311,59,Female,51,71,Month-to-Month,None,1,E-Wallet,No
+1312,52,Female,36,53,Month-to-Month,Fiber,1,Credit Card,No
+1313,24,Male,66,60,Month-to-Month,DSL,1,Credit Card,Yes
+1314,33,Female,34,70,Month-to-Month,Fiber,1,E-Wallet,No
+1315,43,Female,36,66,Two Year,DSL,2,E-Wallet,No
+1316,65,Female,6,101,Month-to-Month,Fiber,0,Credit Card,Yes
+1317,74,Male,39,77,Month-to-Month,DSL,1,Bank Transfer,No
+1318,69,Male,42,94,Month-to-Month,Fiber,2,UPI,Yes
+1319,66,Female,58,76,Month-to-Month,Fiber,4,UPI,Yes
+1320,19,Male,12,42,Month-to-Month,Fiber,0,Credit Card,Yes
+1321,18,Male,3,67,One Year,Fiber,0,UPI,Yes
+1322,65,Male,18,41,Two Year,None,1,Credit Card,No
+1323,29,Male,40,36,Month-to-Month,None,1,Credit Card,Yes
+1324,22,Male,21,88,One Year,Fiber,4,Credit Card,Yes
+1325,54,Male,15,30,One Year,DSL,2,Credit Card,No
+1326,49,Male,26,113,Two Year,Fiber,2,Bank Transfer,No
+1327,72,Male,8,34,Month-to-Month,DSL,2,E-Wallet,Yes
+1328,26,Male,42,110,Month-to-Month,DSL,5,E-Wallet,Yes
+1329,58,Male,44,54,Month-to-Month,None,3,Bank Transfer,No
+1330,52,Female,14,52,One Year,Fiber,4,UPI,Yes
+1331,36,Female,2,103,Two Year,DSL,3,UPI,Yes
+1332,65,Male,37,35,Month-to-Month,Fiber,0,E-Wallet,Yes
+1333,33,Female,69,53,Month-to-Month,None,3,UPI,No
+1334,20,Female,38,85,Two Year,Fiber,2,E-Wallet,No
+1335,37,Male,41,118,Two Year,DSL,3,E-Wallet,No
+1336,41,Male,62,59,Two Year,DSL,3,Bank Transfer,No
+1337,71,Male,60,47,One Year,DSL,1,UPI,No
+1338,73,Female,14,66,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1339,50,Female,2,58,One Year,None,4,E-Wallet,Yes
+1340,41,Male,70,89,One Year,Fiber,0,E-Wallet,No
+1341,69,Male,17,92,Month-to-Month,DSL,2,E-Wallet,Yes
+1342,28,Male,28,39,Month-to-Month,Fiber,3,Credit Card,Yes
+1343,66,Female,66,20,One Year,Fiber,1,Credit Card,No
+1344,25,Female,35,91,Month-to-Month,DSL,0,Credit Card,Yes
+1345,53,Female,5,106,One Year,Fiber,3,Bank Transfer,Yes
+1346,55,Female,65,82,One Year,Fiber,2,E-Wallet,Yes
+1347,57,Male,40,86,Two Year,Fiber,1,UPI,No
+1348,37,Male,56,23,Month-to-Month,Fiber,2,Bank Transfer,No
+1349,52,Male,36,77,Month-to-Month,DSL,1,Bank Transfer,Yes
+1350,65,Male,45,44,One Year,DSL,0,Bank Transfer,No
+1351,42,Female,23,66,Month-to-Month,Fiber,2,UPI,Yes
+1352,52,Female,47,57,One Year,Fiber,0,E-Wallet,No
+1353,42,Male,31,34,One Year,Fiber,3,Credit Card,Yes
+1354,46,Male,11,82,Month-to-Month,Fiber,2,E-Wallet,Yes
+1355,35,Female,10,40,Month-to-Month,DSL,4,E-Wallet,Yes
+1356,63,Male,67,118,Month-to-Month,DSL,1,Bank Transfer,No
+1357,35,Female,14,76,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1358,19,Male,10,72,Two Year,Fiber,0,Bank Transfer,No
+1359,71,Male,1,65,Two Year,Fiber,4,Credit Card,Yes
+1360,52,Male,5,33,One Year,DSL,0,Credit Card,No
+1361,33,Male,20,119,One Year,None,5,Credit Card,No
+1362,58,Male,8,95,Month-to-Month,Fiber,0,E-Wallet,Yes
+1363,53,Male,43,36,Two Year,Fiber,3,Bank Transfer,No
+1364,50,Male,1,58,One Year,DSL,2,UPI,Yes
+1365,21,Female,57,28,One Year,None,1,E-Wallet,No
+1366,50,Female,64,118,Two Year,Fiber,1,Credit Card,No
+1367,31,Female,28,96,Month-to-Month,Fiber,1,UPI,Yes
+1368,38,Female,37,98,Two Year,Fiber,2,UPI,Yes
+1369,65,Female,47,101,Month-to-Month,DSL,3,Bank Transfer,Yes
+1370,37,Male,37,116,Month-to-Month,Fiber,2,UPI,Yes
+1371,73,Male,49,25,Month-to-Month,Fiber,3,Credit Card,No
+1372,25,Female,44,110,Two Year,DSL,3,Bank Transfer,No
+1373,24,Male,56,42,Two Year,Fiber,1,UPI,No
+1374,20,Female,28,78,One Year,DSL,2,Bank Transfer,No
+1375,34,Female,6,110,One Year,Fiber,2,UPI,Yes
+1376,50,Male,61,117,One Year,Fiber,2,E-Wallet,Yes
+1377,65,Male,20,65,Two Year,DSL,4,E-Wallet,Yes
+1378,29,Male,2,57,Month-to-Month,Fiber,1,Credit Card,Yes
+1379,68,Female,37,33,Month-to-Month,None,0,E-Wallet,No
+1380,39,Male,20,119,Month-to-Month,DSL,1,E-Wallet,Yes
+1381,72,Female,26,91,One Year,Fiber,2,E-Wallet,Yes
+1382,39,Female,29,81,One Year,DSL,0,UPI,No
+1383,63,Female,1,54,Month-to-Month,Fiber,1,UPI,Yes
+1384,47,Male,35,38,Month-to-Month,None,0,Bank Transfer,Yes
+1385,55,Male,70,49,Two Year,Fiber,2,UPI,No
+1386,55,Female,59,97,Month-to-Month,DSL,2,E-Wallet,Yes
+1387,62,Male,69,103,One Year,Fiber,3,UPI,No
+1388,68,Male,33,44,Two Year,Fiber,0,Credit Card,No
+1389,71,Male,51,59,Month-to-Month,DSL,5,Bank Transfer,No
+1390,25,Female,12,107,Month-to-Month,DSL,5,Bank Transfer,Yes
+1391,44,Female,20,33,One Year,Fiber,1,UPI,Yes
+1392,44,Male,53,45,Two Year,Fiber,4,E-Wallet,No
+1393,51,Female,43,106,Month-to-Month,DSL,2,Bank Transfer,Yes
+1394,38,Male,50,41,Two Year,None,3,Credit Card,No
+1395,47,Male,29,67,Month-to-Month,Fiber,2,Credit Card,No
+1396,50,Male,57,102,Month-to-Month,Fiber,3,Bank Transfer,No
+1397,45,Male,39,70,One Year,Fiber,2,E-Wallet,No
+1398,64,Female,56,22,Two Year,DSL,2,E-Wallet,No
+1399,50,Female,43,61,Month-to-Month,Fiber,2,UPI,Yes
+1400,22,Female,50,38,Two Year,Fiber,2,UPI,No
+1401,65,Male,23,92,One Year,DSL,0,Bank Transfer,Yes
+1402,36,Male,44,47,Month-to-Month,Fiber,4,UPI,Yes
+1403,21,Male,38,103,Month-to-Month,Fiber,4,UPI,Yes
+1404,52,Female,23,64,Two Year,Fiber,1,UPI,No
+1405,66,Male,45,90,Month-to-Month,Fiber,3,Credit Card,Yes
+1406,34,Female,52,97,Month-to-Month,Fiber,0,UPI,Yes
+1407,61,Female,50,82,Month-to-Month,DSL,2,Bank Transfer,No
+1408,45,Female,8,92,Two Year,Fiber,0,E-Wallet,Yes
+1409,47,Female,1,38,One Year,DSL,3,UPI,No
+1410,46,Female,8,66,One Year,DSL,2,E-Wallet,Yes
+1411,63,Female,29,33,Month-to-Month,DSL,1,UPI,No
+1412,70,Male,5,57,One Year,Fiber,0,Bank Transfer,Yes
+1413,23,Male,47,72,One Year,Fiber,0,Credit Card,No
+1414,52,Female,34,80,Two Year,Fiber,4,Bank Transfer,No
+1415,58,Female,65,55,Two Year,Fiber,2,Credit Card,No
+1416,54,Male,55,59,Month-to-Month,Fiber,2,UPI,No
+1417,41,Female,43,100,One Year,DSL,3,UPI,Yes
+1418,46,Female,30,49,Month-to-Month,Fiber,5,Credit Card,Yes
+1419,66,Male,17,28,Month-to-Month,Fiber,3,Bank Transfer,Yes
+1420,63,Female,26,83,Month-to-Month,Fiber,0,Bank Transfer,No
+1421,70,Female,8,52,Month-to-Month,DSL,0,Credit Card,Yes
+1422,48,Female,47,71,Month-to-Month,Fiber,2,UPI,No
+1423,52,Male,72,108,One Year,DSL,2,Credit Card,No
+1424,50,Male,46,33,Month-to-Month,Fiber,2,UPI,Yes
+1425,69,Male,68,94,One Year,DSL,3,Credit Card,No
+1426,38,Female,33,72,Month-to-Month,DSL,0,UPI,No
+1427,49,Female,1,118,Month-to-Month,Fiber,0,Credit Card,Yes
+1428,40,Male,19,78,One Year,Fiber,3,E-Wallet,No
+1429,50,Female,31,97,Month-to-Month,Fiber,2,UPI,Yes
+1430,20,Female,14,113,Month-to-Month,Fiber,3,Bank Transfer,Yes
+1431,35,Female,53,60,One Year,DSL,1,Credit Card,Yes
+1432,42,Female,48,87,Month-to-Month,DSL,3,Bank Transfer,Yes
+1433,59,Female,69,87,Month-to-Month,DSL,3,Credit Card,Yes
+1434,48,Male,62,111,Month-to-Month,DSL,1,Bank Transfer,Yes
+1435,71,Female,66,27,Two Year,Fiber,3,Bank Transfer,No
+1436,20,Male,64,21,One Year,Fiber,4,Credit Card,No
+1437,57,Female,70,105,One Year,DSL,2,Credit Card,No
+1438,63,Male,63,60,One Year,Fiber,1,Bank Transfer,No
+1439,41,Female,33,74,Month-to-Month,DSL,4,Bank Transfer,Yes
+1440,67,Male,41,35,Month-to-Month,Fiber,1,Bank Transfer,No
+1441,49,Female,48,112,One Year,Fiber,1,UPI,No
+1442,64,Male,13,81,Month-to-Month,None,3,UPI,Yes
+1443,39,Female,31,67,Month-to-Month,Fiber,1,E-Wallet,Yes
+1444,40,Male,68,49,Month-to-Month,None,4,UPI,No
+1445,19,Female,4,31,Month-to-Month,None,3,UPI,No
+1446,44,Male,19,54,Two Year,DSL,0,Credit Card,No
+1447,59,Male,70,30,Month-to-Month,DSL,2,E-Wallet,No
+1448,19,Female,13,83,Month-to-Month,DSL,3,E-Wallet,Yes
+1449,43,Female,23,69,Month-to-Month,DSL,2,UPI,Yes
+1450,34,Male,1,104,Two Year,Fiber,1,Credit Card,Yes
+1451,57,Female,54,40,Month-to-Month,Fiber,4,Credit Card,Yes
+1452,50,Male,71,88,Month-to-Month,DSL,1,E-Wallet,No
+1453,26,Male,15,67,One Year,Fiber,1,Credit Card,Yes
+1454,60,Male,65,39,One Year,Fiber,0,Bank Transfer,No
+1455,71,Female,71,120,Month-to-Month,Fiber,3,UPI,No
+1456,65,Male,15,86,Month-to-Month,DSL,0,Bank Transfer,Yes
+1457,56,Male,21,63,Month-to-Month,DSL,2,E-Wallet,No
+1458,46,Female,19,52,Month-to-Month,Fiber,1,E-Wallet,No
+1459,59,Female,60,92,Month-to-Month,None,1,Credit Card,Yes
+1460,72,Female,33,80,Month-to-Month,DSL,2,Credit Card,Yes
+1461,43,Female,49,28,Month-to-Month,DSL,4,E-Wallet,Yes
+1462,52,Male,35,87,Month-to-Month,DSL,4,E-Wallet,Yes
+1463,67,Male,44,54,One Year,DSL,3,Bank Transfer,No
+1464,42,Male,11,100,Two Year,Fiber,4,Bank Transfer,Yes
+1465,41,Male,72,117,One Year,DSL,1,Credit Card,No
+1466,30,Female,66,107,Month-to-Month,Fiber,2,Bank Transfer,Yes
+1467,24,Male,46,115,Month-to-Month,DSL,1,Credit Card,No
+1468,74,Male,9,84,Two Year,None,1,Credit Card,Yes
+1469,53,Female,3,27,Month-to-Month,Fiber,4,UPI,Yes
+1470,62,Male,26,64,Month-to-Month,Fiber,2,Credit Card,No
+1471,37,Male,72,106,One Year,DSL,0,Bank Transfer,No
+1472,18,Male,48,66,One Year,Fiber,3,E-Wallet,No
+1473,25,Male,66,59,One Year,DSL,1,E-Wallet,No
+1474,63,Male,70,95,Month-to-Month,Fiber,2,Bank Transfer,Yes
+1475,33,Male,28,73,Month-to-Month,Fiber,2,E-Wallet,Yes
+1476,31,Female,26,95,Two Year,None,0,Credit Card,No
+1477,29,Female,25,65,Month-to-Month,DSL,2,E-Wallet,Yes
+1478,68,Male,12,66,One Year,DSL,5,Bank Transfer,No
+1479,40,Male,5,34,One Year,Fiber,2,E-Wallet,No
+1480,32,Female,48,38,One Year,DSL,3,Credit Card,No
+1481,45,Male,37,45,Month-to-Month,DSL,0,Credit Card,No
+1482,51,Male,44,71,Month-to-Month,DSL,2,Bank Transfer,No
+1483,19,Male,15,112,One Year,DSL,1,Bank Transfer,Yes
+1484,49,Female,43,41,Two Year,DSL,3,Bank Transfer,No
+1485,40,Male,48,40,Two Year,Fiber,2,UPI,No
+1486,39,Female,70,70,Month-to-Month,Fiber,1,UPI,No
+1487,68,Male,46,57,Month-to-Month,DSL,2,Credit Card,Yes
+1488,42,Female,43,39,Two Year,Fiber,1,UPI,No
+1489,39,Female,21,48,One Year,DSL,2,UPI,No
+1490,39,Male,23,70,Two Year,Fiber,5,E-Wallet,No
+1491,66,Female,47,23,Month-to-Month,DSL,3,UPI,No
+1492,69,Male,15,74,One Year,DSL,4,E-Wallet,No
+1493,59,Female,25,90,One Year,Fiber,2,Bank Transfer,Yes
+1494,23,Male,36,111,One Year,Fiber,2,E-Wallet,Yes
+1495,32,Male,51,47,Month-to-Month,Fiber,0,E-Wallet,No
+1496,71,Female,15,23,Month-to-Month,DSL,2,Bank Transfer,Yes
+1497,60,Male,68,41,One Year,DSL,1,Bank Transfer,No
+1498,54,Male,21,95,Month-to-Month,Fiber,1,Credit Card,Yes
+1499,50,Female,13,64,Month-to-Month,DSL,2,Credit Card,No
+1500,25,Male,19,86,Two Year,Fiber,3,Credit Card,No
+1501,70,Male,34,105,Month-to-Month,Fiber,1,Credit Card,Yes
+1502,61,Female,68,85,Two Year,None,2,E-Wallet,No
+1503,61,Female,52,107,Month-to-Month,Fiber,1,E-Wallet,Yes
+1504,22,Male,27,53,One Year,Fiber,2,Credit Card,No
+1505,56,Male,29,110,Two Year,Fiber,1,UPI,No
+1506,21,Female,28,74,Month-to-Month,Fiber,1,Credit Card,Yes
+1507,23,Female,35,20,Month-to-Month,Fiber,3,UPI,Yes
+1508,62,Male,8,91,Month-to-Month,Fiber,3,Bank Transfer,Yes
+1509,49,Female,16,106,Month-to-Month,DSL,1,E-Wallet,Yes
+1510,69,Male,36,57,One Year,Fiber,0,E-Wallet,No
+1511,47,Male,30,25,Two Year,DSL,3,UPI,No
+1512,64,Male,18,105,Month-to-Month,Fiber,3,Credit Card,Yes
+1513,52,Male,2,44,Month-to-Month,Fiber,3,E-Wallet,Yes
+1514,72,Male,49,101,Month-to-Month,DSL,0,UPI,No
+1515,57,Female,4,36,One Year,None,0,Bank Transfer,Yes
+1516,69,Female,7,80,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1517,33,Female,39,31,One Year,DSL,4,E-Wallet,No
+1518,30,Female,13,25,One Year,DSL,1,Credit Card,Yes
+1519,67,Male,31,109,One Year,DSL,3,UPI,No
+1520,59,Male,71,46,Month-to-Month,DSL,0,E-Wallet,No
+1521,47,Male,63,27,One Year,Fiber,0,Bank Transfer,No
+1522,36,Male,56,102,Month-to-Month,Fiber,4,Credit Card,Yes
+1523,34,Female,42,84,Month-to-Month,DSL,1,UPI,No
+1524,73,Male,61,76,Two Year,Fiber,2,E-Wallet,No
+1525,36,Male,42,112,One Year,None,4,UPI,No
+1526,45,Female,56,118,Month-to-Month,Fiber,1,Credit Card,Yes
+1527,72,Female,36,59,Month-to-Month,Fiber,0,Credit Card,Yes
+1528,43,Female,68,33,Month-to-Month,DSL,1,Bank Transfer,No
+1529,54,Female,7,54,Month-to-Month,Fiber,2,Credit Card,Yes
+1530,43,Male,54,67,Month-to-Month,DSL,1,E-Wallet,No
+1531,70,Male,1,103,Month-to-Month,DSL,1,UPI,Yes
+1532,40,Female,44,75,Month-to-Month,None,1,Credit Card,No
+1533,26,Male,45,68,One Year,DSL,3,Credit Card,No
+1534,29,Male,47,32,One Year,DSL,1,E-Wallet,No
+1535,70,Male,13,80,One Year,DSL,1,UPI,No
+1536,18,Female,22,68,Month-to-Month,None,3,UPI,No
+1537,18,Male,21,65,Two Year,Fiber,1,Bank Transfer,No
+1538,64,Female,9,81,Two Year,Fiber,2,Bank Transfer,No
+1539,51,Male,26,27,Two Year,Fiber,0,UPI,No
+1540,49,Male,9,62,Two Year,Fiber,1,E-Wallet,No
+1541,71,Male,15,39,Two Year,DSL,3,E-Wallet,No
+1542,65,Female,10,116,Month-to-Month,DSL,1,Bank Transfer,Yes
+1543,42,Male,42,109,Month-to-Month,DSL,4,Credit Card,Yes
+1544,57,Female,72,58,One Year,Fiber,2,E-Wallet,No
+1545,62,Female,24,104,One Year,DSL,0,Credit Card,Yes
+1546,70,Female,49,68,One Year,Fiber,4,E-Wallet,No
+1547,18,Male,26,83,Month-to-Month,DSL,2,UPI,Yes
+1548,33,Male,37,81,Month-to-Month,DSL,1,Bank Transfer,No
+1549,56,Male,68,73,Month-to-Month,Fiber,1,Credit Card,No
+1550,22,Male,50,28,Two Year,Fiber,2,Credit Card,No
+1551,39,Female,24,107,One Year,Fiber,1,UPI,No
+1552,46,Female,19,56,Month-to-Month,DSL,2,E-Wallet,No
+1553,72,Female,60,68,Month-to-Month,None,2,Credit Card,Yes
+1554,20,Male,39,60,Month-to-Month,DSL,1,E-Wallet,No
+1555,29,Female,18,36,Two Year,Fiber,1,UPI,No
+1556,43,Male,19,107,One Year,Fiber,5,Bank Transfer,Yes
+1557,33,Female,36,40,One Year,DSL,1,Credit Card,No
+1558,68,Male,55,70,Month-to-Month,DSL,6,E-Wallet,Yes
+1559,54,Male,69,78,One Year,Fiber,4,Credit Card,No
+1560,39,Female,47,58,Month-to-Month,Fiber,2,E-Wallet,No
+1561,74,Female,49,74,One Year,DSL,1,E-Wallet,No
+1562,46,Female,33,60,Month-to-Month,Fiber,1,E-Wallet,Yes
+1563,31,Female,21,58,Month-to-Month,Fiber,3,UPI,Yes
+1564,45,Male,22,32,One Year,Fiber,2,Bank Transfer,No
+1565,22,Female,48,83,Two Year,DSL,1,Credit Card,No
+1566,64,Female,37,30,Month-to-Month,DSL,4,Bank Transfer,Yes
+1567,66,Female,15,38,Two Year,None,2,E-Wallet,No
+1568,47,Male,35,30,Month-to-Month,DSL,1,E-Wallet,No
+1569,63,Male,71,96,Month-to-Month,DSL,3,Bank Transfer,Yes
+1570,69,Female,32,65,Month-to-Month,Fiber,2,Bank Transfer,Yes
+1571,22,Male,11,64,Month-to-Month,DSL,4,Credit Card,Yes
+1572,29,Female,10,20,Month-to-Month,Fiber,4,E-Wallet,Yes
+1573,33,Male,57,59,Month-to-Month,DSL,1,Bank Transfer,No
+1574,43,Male,25,38,Month-to-Month,Fiber,4,UPI,No
+1575,43,Male,2,95,Two Year,Fiber,0,E-Wallet,Yes
+1576,65,Male,64,91,Month-to-Month,Fiber,3,E-Wallet,Yes
+1577,38,Female,35,91,One Year,Fiber,3,Credit Card,No
+1578,56,Female,7,80,Month-to-Month,Fiber,2,UPI,No
+1579,53,Female,18,31,One Year,Fiber,3,Credit Card,Yes
+1580,50,Male,67,80,Month-to-Month,None,1,UPI,Yes
+1581,47,Female,42,52,Month-to-Month,Fiber,4,Credit Card,Yes
+1582,54,Female,39,64,Month-to-Month,DSL,3,UPI,No
+1583,40,Female,41,109,Month-to-Month,DSL,0,UPI,Yes
+1584,27,Male,24,111,Month-to-Month,None,2,UPI,Yes
+1585,71,Male,60,88,One Year,DSL,1,Bank Transfer,No
+1586,22,Male,46,27,Two Year,DSL,0,E-Wallet,No
+1587,53,Female,19,44,Two Year,Fiber,3,UPI,No
+1588,51,Female,68,110,One Year,Fiber,1,Bank Transfer,No
+1589,69,Female,42,65,Month-to-Month,Fiber,1,Bank Transfer,No
+1590,48,Male,32,106,Month-to-Month,DSL,1,Credit Card,Yes
+1591,27,Male,39,49,Month-to-Month,DSL,4,E-Wallet,No
+1592,36,Female,36,66,Month-to-Month,Fiber,3,E-Wallet,Yes
+1593,49,Male,36,106,Month-to-Month,Fiber,0,Credit Card,Yes
+1594,18,Male,3,68,Month-to-Month,DSL,1,E-Wallet,Yes
+1595,73,Male,8,66,Month-to-Month,Fiber,4,Credit Card,Yes
+1596,22,Male,70,103,Month-to-Month,DSL,2,Bank Transfer,Yes
+1597,62,Female,41,101,Two Year,DSL,1,Bank Transfer,No
+1598,21,Male,68,37,One Year,DSL,2,UPI,No
+1599,33,Male,13,85,Month-to-Month,DSL,1,Credit Card,Yes
+1600,41,Male,49,87,Two Year,DSL,3,Bank Transfer,No
+1601,33,Male,60,113,Two Year,Fiber,3,Bank Transfer,No
+1602,72,Female,2,52,Month-to-Month,DSL,6,Credit Card,Yes
+1603,19,Female,60,55,Month-to-Month,DSL,1,Bank Transfer,No
+1604,66,Male,5,101,Month-to-Month,Fiber,3,E-Wallet,Yes
+1605,45,Male,44,120,Two Year,Fiber,1,Bank Transfer,No
+1606,49,Male,27,38,Two Year,Fiber,4,Credit Card,No
+1607,44,Male,32,47,Month-to-Month,Fiber,2,E-Wallet,Yes
+1608,37,Male,21,59,Month-to-Month,DSL,3,E-Wallet,Yes
+1609,41,Male,8,103,One Year,DSL,1,Bank Transfer,Yes
+1610,29,Female,72,116,Month-to-Month,Fiber,2,UPI,Yes
+1611,67,Male,50,95,Month-to-Month,Fiber,2,E-Wallet,Yes
+1612,52,Female,67,34,Two Year,None,2,Credit Card,No
+1613,50,Female,44,60,One Year,Fiber,1,UPI,No
+1614,50,Male,58,58,Two Year,Fiber,4,UPI,No
+1615,68,Female,3,21,Two Year,DSL,1,E-Wallet,No
+1616,60,Female,70,82,One Year,DSL,1,Bank Transfer,No
+1617,54,Female,2,48,Month-to-Month,Fiber,2,UPI,Yes
+1618,29,Female,44,93,One Year,Fiber,2,Bank Transfer,No
+1619,20,Female,2,85,Month-to-Month,Fiber,5,E-Wallet,Yes
+1620,18,Female,35,70,One Year,DSL,0,Credit Card,Yes
+1621,50,Male,30,94,Month-to-Month,DSL,0,UPI,Yes
+1622,57,Female,8,96,One Year,Fiber,2,Credit Card,Yes
+1623,27,Female,22,29,Month-to-Month,DSL,1,Bank Transfer,Yes
+1624,60,Female,44,33,Month-to-Month,DSL,4,Bank Transfer,Yes
+1625,61,Male,58,101,Month-to-Month,Fiber,4,Credit Card,Yes
+1626,46,Female,36,70,Month-to-Month,Fiber,2,E-Wallet,Yes
+1627,30,Male,69,92,One Year,DSL,1,E-Wallet,No
+1628,29,Female,31,58,One Year,Fiber,1,UPI,No
+1629,48,Male,47,47,Month-to-Month,Fiber,4,UPI,Yes
+1630,63,Male,55,22,Month-to-Month,DSL,1,E-Wallet,Yes
+1631,19,Female,62,103,Month-to-Month,DSL,8,E-Wallet,Yes
+1632,68,Female,30,89,Month-to-Month,DSL,0,Credit Card,No
+1633,67,Male,55,46,Month-to-Month,DSL,1,Bank Transfer,Yes
+1634,52,Female,16,21,Two Year,DSL,3,Bank Transfer,No
+1635,40,Male,12,112,Month-to-Month,Fiber,1,UPI,Yes
+1636,34,Male,17,57,Month-to-Month,DSL,3,E-Wallet,Yes
+1637,43,Male,16,22,Month-to-Month,Fiber,2,Credit Card,Yes
+1638,25,Male,12,35,Month-to-Month,Fiber,2,UPI,Yes
+1639,46,Male,8,113,Month-to-Month,DSL,1,Credit Card,Yes
+1640,43,Female,3,59,One Year,DSL,2,E-Wallet,Yes
+1641,27,Male,16,21,Month-to-Month,Fiber,0,E-Wallet,Yes
+1642,43,Male,30,100,Month-to-Month,None,1,E-Wallet,Yes
+1643,51,Female,23,60,Month-to-Month,Fiber,0,Bank Transfer,No
+1644,68,Male,5,31,Month-to-Month,Fiber,5,E-Wallet,Yes
+1645,58,Female,65,54,Month-to-Month,Fiber,4,UPI,Yes
+1646,24,Female,30,84,Two Year,DSL,3,Bank Transfer,No
+1647,21,Female,21,74,One Year,DSL,1,Credit Card,No
+1648,70,Male,70,64,One Year,Fiber,2,UPI,No
+1649,67,Male,22,98,Month-to-Month,DSL,1,UPI,Yes
+1650,62,Male,72,109,Month-to-Month,Fiber,4,Credit Card,Yes
+1651,28,Female,32,120,Month-to-Month,DSL,1,Bank Transfer,Yes
+1652,46,Male,33,104,One Year,Fiber,0,UPI,Yes
+1653,73,Female,16,81,One Year,Fiber,3,UPI,No
+1654,53,Male,38,68,Month-to-Month,None,1,UPI,Yes
+1655,42,Female,14,114,Month-to-Month,Fiber,3,Bank Transfer,Yes
+1656,38,Male,36,44,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1657,74,Male,23,42,Two Year,DSL,2,Bank Transfer,No
+1658,53,Male,66,43,One Year,None,2,UPI,No
+1659,27,Female,2,57,Month-to-Month,Fiber,1,E-Wallet,Yes
+1660,54,Female,65,47,Month-to-Month,Fiber,3,Credit Card,No
+1661,26,Male,67,40,One Year,Fiber,3,E-Wallet,No
+1662,41,Male,52,73,Month-to-Month,DSL,1,Bank Transfer,No
+1663,52,Female,62,37,Month-to-Month,Fiber,1,UPI,No
+1664,66,Female,23,55,Month-to-Month,DSL,3,UPI,Yes
+1665,52,Female,26,118,One Year,None,1,E-Wallet,Yes
+1666,65,Male,68,64,Month-to-Month,Fiber,0,E-Wallet,Yes
+1667,53,Female,55,92,Month-to-Month,Fiber,1,Credit Card,Yes
+1668,35,Male,6,72,Two Year,Fiber,3,UPI,No
+1669,66,Female,35,49,Month-to-Month,Fiber,4,E-Wallet,Yes
+1670,56,Male,22,79,Month-to-Month,DSL,2,Credit Card,Yes
+1671,49,Female,43,117,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1672,41,Female,15,51,Month-to-Month,Fiber,2,E-Wallet,No
+1673,40,Female,60,86,One Year,DSL,1,Bank Transfer,No
+1674,49,Female,12,86,Month-to-Month,Fiber,3,Credit Card,Yes
+1675,54,Female,49,47,Month-to-Month,DSL,2,Bank Transfer,No
+1676,29,Male,42,63,One Year,Fiber,2,UPI,No
+1677,66,Female,38,98,One Year,DSL,2,UPI,No
+1678,72,Female,45,60,One Year,None,0,Bank Transfer,No
+1679,30,Female,35,82,Month-to-Month,DSL,3,UPI,Yes
+1680,40,Male,30,42,Month-to-Month,None,2,Credit Card,No
+1681,42,Female,30,94,One Year,Fiber,0,UPI,Yes
+1682,52,Male,6,67,Month-to-Month,Fiber,2,Bank Transfer,Yes
+1683,58,Female,67,51,Two Year,DSL,2,Bank Transfer,No
+1684,47,Female,7,76,Two Year,DSL,2,Bank Transfer,No
+1685,34,Male,52,119,Two Year,Fiber,2,E-Wallet,No
+1686,66,Female,14,52,Month-to-Month,Fiber,3,Bank Transfer,No
+1687,37,Male,15,43,Month-to-Month,Fiber,1,Credit Card,Yes
+1688,65,Male,21,58,One Year,Fiber,2,UPI,No
+1689,42,Female,35,53,Month-to-Month,Fiber,2,UPI,Yes
+1690,39,Male,66,75,Month-to-Month,DSL,3,E-Wallet,No
+1691,30,Female,2,47,Two Year,Fiber,2,E-Wallet,No
+1692,36,Female,35,56,Two Year,Fiber,4,Credit Card,Yes
+1693,66,Male,20,26,Month-to-Month,DSL,2,Bank Transfer,No
+1694,53,Male,10,87,Month-to-Month,DSL,1,E-Wallet,Yes
+1695,29,Male,25,56,Month-to-Month,DSL,1,UPI,Yes
+1696,58,Male,66,75,Two Year,DSL,0,E-Wallet,No
+1697,36,Female,25,84,Two Year,Fiber,2,E-Wallet,No
+1698,29,Female,54,84,Month-to-Month,DSL,4,Bank Transfer,Yes
+1699,26,Male,33,66,Month-to-Month,DSL,1,E-Wallet,Yes
+1700,24,Female,36,39,Two Year,Fiber,0,Credit Card,No
+1701,45,Female,14,38,Month-to-Month,DSL,2,UPI,Yes
+1702,31,Female,65,48,Month-to-Month,None,0,Bank Transfer,No
+1703,48,Female,54,93,Two Year,Fiber,0,UPI,No
+1704,69,Male,52,79,Month-to-Month,Fiber,3,Credit Card,No
+1705,36,Male,3,37,One Year,Fiber,2,Credit Card,Yes
+1706,64,Female,41,111,Month-to-Month,Fiber,3,E-Wallet,Yes
+1707,33,Male,6,54,Month-to-Month,Fiber,1,E-Wallet,Yes
+1708,70,Male,25,62,Two Year,DSL,1,E-Wallet,No
+1709,22,Male,13,114,Month-to-Month,Fiber,2,UPI,Yes
+1710,52,Female,8,110,Two Year,None,4,Credit Card,Yes
+1711,29,Female,21,30,One Year,DSL,3,Bank Transfer,Yes
+1712,42,Female,68,68,Month-to-Month,DSL,1,E-Wallet,No
+1713,69,Male,25,57,Month-to-Month,DSL,4,UPI,Yes
+1714,38,Female,68,83,Month-to-Month,Fiber,1,E-Wallet,Yes
+1715,53,Female,45,88,Month-to-Month,Fiber,3,Credit Card,Yes
+1716,70,Male,60,27,Month-to-Month,DSL,1,Bank Transfer,No
+1717,40,Female,12,53,Month-to-Month,DSL,1,Credit Card,No
+1718,33,Female,32,67,Month-to-Month,DSL,2,UPI,Yes
+1719,74,Male,13,75,One Year,Fiber,3,E-Wallet,No
+1720,56,Male,31,95,One Year,None,1,Credit Card,Yes
+1721,62,Male,20,84,One Year,Fiber,3,UPI,Yes
+1722,70,Female,18,50,Month-to-Month,DSL,2,E-Wallet,Yes
+1723,59,Female,60,23,Month-to-Month,None,2,Bank Transfer,No
+1724,56,Female,63,69,One Year,Fiber,2,Credit Card,No
+1725,31,Male,6,88,Month-to-Month,DSL,0,E-Wallet,Yes
+1726,48,Male,32,49,Month-to-Month,Fiber,5,E-Wallet,Yes
+1727,22,Female,43,107,Two Year,Fiber,2,E-Wallet,No
+1728,52,Female,2,78,One Year,DSL,2,E-Wallet,No
+1729,40,Male,60,86,Month-to-Month,DSL,0,Credit Card,Yes
+1730,46,Male,23,94,Month-to-Month,None,4,E-Wallet,Yes
+1731,60,Male,31,64,One Year,DSL,1,UPI,Yes
+1732,28,Male,5,23,One Year,Fiber,1,Credit Card,Yes
+1733,35,Female,34,45,One Year,DSL,5,E-Wallet,Yes
+1734,64,Male,10,46,One Year,None,0,Credit Card,Yes
+1735,29,Female,2,65,Two Year,Fiber,2,UPI,No
+1736,26,Female,11,83,Month-to-Month,None,1,UPI,Yes
+1737,27,Female,50,110,Month-to-Month,Fiber,3,Credit Card,Yes
+1738,61,Male,31,70,One Year,DSL,2,E-Wallet,No
+1739,34,Male,56,69,One Year,Fiber,5,E-Wallet,Yes
+1740,55,Male,9,25,One Year,Fiber,3,UPI,No
+1741,24,Male,21,78,Month-to-Month,Fiber,2,E-Wallet,Yes
+1742,63,Female,28,34,Month-to-Month,DSL,2,UPI,Yes
+1743,30,Male,62,49,Two Year,Fiber,1,E-Wallet,No
+1744,57,Male,7,61,One Year,Fiber,0,UPI,Yes
+1745,59,Female,16,120,Two Year,DSL,1,Bank Transfer,No
+1746,26,Male,4,56,One Year,None,3,E-Wallet,Yes
+1747,67,Female,4,61,One Year,Fiber,1,E-Wallet,Yes
+1748,44,Female,40,120,One Year,Fiber,1,E-Wallet,No
+1749,19,Female,17,54,Two Year,Fiber,0,Credit Card,No
+1750,22,Female,52,106,One Year,Fiber,2,E-Wallet,Yes
+1751,46,Female,52,25,One Year,DSL,3,Credit Card,No
+1752,54,Female,36,87,Month-to-Month,DSL,4,Credit Card,Yes
+1753,55,Female,38,37,Month-to-Month,DSL,2,UPI,Yes
+1754,36,Female,50,92,One Year,Fiber,3,Credit Card,Yes
+1755,25,Male,63,48,Month-to-Month,DSL,3,Credit Card,No
+1756,65,Male,63,96,Month-to-Month,DSL,2,Bank Transfer,Yes
+1757,62,Male,62,78,Month-to-Month,DSL,3,E-Wallet,No
+1758,18,Male,7,66,Month-to-Month,DSL,0,Credit Card,Yes
+1759,39,Female,27,36,Month-to-Month,DSL,2,E-Wallet,Yes
+1760,69,Male,14,115,Month-to-Month,DSL,2,Credit Card,Yes
+1761,34,Female,71,41,Two Year,Fiber,4,UPI,No
+1762,24,Male,5,87,Month-to-Month,None,2,Bank Transfer,Yes
+1763,42,Male,55,88,Month-to-Month,DSL,2,Credit Card,Yes
+1764,62,Male,2,56,Month-to-Month,DSL,2,E-Wallet,Yes
+1765,21,Female,62,68,One Year,Fiber,2,UPI,No
+1766,53,Male,21,32,Month-to-Month,DSL,1,E-Wallet,No
+1767,23,Female,21,53,Two Year,DSL,2,UPI,No
+1768,48,Female,10,105,One Year,Fiber,3,Bank Transfer,Yes
+1769,36,Male,58,72,One Year,Fiber,1,UPI,No
+1770,61,Male,39,106,Month-to-Month,DSL,3,E-Wallet,Yes
+1771,71,Male,5,70,One Year,DSL,3,E-Wallet,Yes
+1772,56,Female,65,22,Month-to-Month,DSL,1,Credit Card,Yes
+1773,44,Male,13,61,Two Year,Fiber,1,UPI,No
+1774,27,Female,53,117,One Year,DSL,4,E-Wallet,No
+1775,43,Female,45,51,Month-to-Month,Fiber,2,Credit Card,Yes
+1776,36,Male,32,70,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1777,56,Male,36,104,Month-to-Month,Fiber,1,E-Wallet,Yes
+1778,20,Female,60,65,One Year,Fiber,0,Credit Card,No
+1779,62,Female,11,40,Month-to-Month,Fiber,2,E-Wallet,Yes
+1780,30,Female,63,63,One Year,Fiber,3,UPI,No
+1781,67,Male,21,30,Month-to-Month,Fiber,2,Credit Card,Yes
+1782,45,Female,52,87,One Year,Fiber,1,UPI,Yes
+1783,37,Male,55,20,Two Year,DSL,1,Bank Transfer,No
+1784,45,Female,26,111,One Year,Fiber,4,UPI,Yes
+1785,25,Female,68,82,One Year,Fiber,1,Credit Card,Yes
+1786,58,Male,34,43,Month-to-Month,DSL,1,E-Wallet,No
+1787,56,Female,52,118,Month-to-Month,Fiber,3,Credit Card,Yes
+1788,18,Male,52,32,One Year,DSL,1,UPI,No
+1789,20,Male,29,117,Month-to-Month,Fiber,1,UPI,Yes
+1790,30,Female,38,30,Month-to-Month,Fiber,3,E-Wallet,No
+1791,45,Male,42,119,Month-to-Month,DSL,2,Bank Transfer,Yes
+1792,74,Male,21,70,Month-to-Month,DSL,2,Credit Card,Yes
+1793,66,Female,42,36,Month-to-Month,DSL,2,E-Wallet,No
+1794,42,Male,13,118,Two Year,DSL,2,E-Wallet,No
+1795,73,Male,64,101,Month-to-Month,None,3,E-Wallet,Yes
+1796,50,Male,17,105,One Year,Fiber,3,Credit Card,No
+1797,55,Female,9,43,Month-to-Month,Fiber,5,Credit Card,Yes
+1798,70,Male,41,38,One Year,Fiber,1,Credit Card,No
+1799,23,Female,1,56,Month-to-Month,Fiber,3,Bank Transfer,Yes
+1800,61,Female,2,104,Two Year,DSL,1,E-Wallet,No
+1801,62,Male,60,27,Two Year,DSL,0,UPI,No
+1802,49,Male,48,47,Month-to-Month,Fiber,2,UPI,No
+1803,62,Male,29,24,Two Year,None,3,E-Wallet,No
+1804,64,Female,10,36,Two Year,DSL,1,UPI,No
+1805,38,Male,58,120,Two Year,Fiber,4,Bank Transfer,No
+1806,33,Male,60,55,Two Year,Fiber,1,Bank Transfer,No
+1807,71,Male,21,38,Month-to-Month,Fiber,0,Credit Card,No
+1808,38,Male,28,83,One Year,Fiber,2,Credit Card,No
+1809,28,Male,34,110,Month-to-Month,Fiber,0,Credit Card,Yes
+1810,54,Female,8,117,Month-to-Month,DSL,4,Credit Card,Yes
+1811,53,Female,59,30,Two Year,Fiber,1,Credit Card,No
+1812,52,Male,72,73,Month-to-Month,Fiber,2,UPI,No
+1813,36,Male,49,64,One Year,None,1,UPI,No
+1814,37,Male,17,66,Two Year,DSL,1,Credit Card,Yes
+1815,74,Male,60,31,Two Year,None,1,Bank Transfer,No
+1816,35,Female,45,40,Two Year,Fiber,2,UPI,No
+1817,64,Male,69,30,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1818,58,Female,32,111,Month-to-Month,DSL,2,Bank Transfer,Yes
+1819,66,Female,44,24,Month-to-Month,Fiber,3,E-Wallet,Yes
+1820,31,Male,65,100,Month-to-Month,Fiber,4,E-Wallet,Yes
+1821,32,Female,8,75,Month-to-Month,DSL,2,Credit Card,Yes
+1822,48,Female,72,39,Month-to-Month,DSL,2,Bank Transfer,No
+1823,18,Female,43,60,One Year,Fiber,3,UPI,No
+1824,70,Female,1,65,One Year,Fiber,3,E-Wallet,No
+1825,71,Male,51,31,Month-to-Month,Fiber,2,E-Wallet,No
+1826,71,Male,24,89,One Year,Fiber,3,Bank Transfer,Yes
+1827,20,Female,24,36,Month-to-Month,Fiber,1,E-Wallet,Yes
+1828,33,Male,17,38,Month-to-Month,Fiber,4,E-Wallet,Yes
+1829,40,Male,5,45,One Year,Fiber,0,UPI,Yes
+1830,74,Male,20,67,One Year,None,5,Bank Transfer,No
+1831,28,Male,21,71,One Year,DSL,2,E-Wallet,No
+1832,29,Male,58,115,Month-to-Month,DSL,1,Bank Transfer,No
+1833,27,Female,31,89,Two Year,Fiber,1,E-Wallet,Yes
+1834,49,Male,11,74,One Year,Fiber,1,UPI,Yes
+1835,33,Male,52,119,One Year,Fiber,2,Bank Transfer,Yes
+1836,25,Male,15,94,One Year,Fiber,1,E-Wallet,No
+1837,55,Male,7,52,Two Year,Fiber,4,UPI,Yes
+1838,29,Female,28,81,One Year,DSL,3,E-Wallet,Yes
+1839,41,Female,51,107,One Year,DSL,0,Bank Transfer,No
+1840,45,Female,58,42,Two Year,DSL,2,E-Wallet,No
+1841,70,Female,5,34,One Year,Fiber,0,Bank Transfer,Yes
+1842,25,Male,5,46,Month-to-Month,None,0,Bank Transfer,Yes
+1843,45,Female,8,94,One Year,Fiber,2,E-Wallet,Yes
+1844,53,Male,64,83,Month-to-Month,Fiber,3,UPI,Yes
+1845,43,Male,10,100,Month-to-Month,Fiber,2,Credit Card,Yes
+1846,25,Male,38,70,One Year,DSL,2,UPI,No
+1847,67,Male,8,72,Two Year,None,1,UPI,No
+1848,45,Male,25,97,Two Year,Fiber,0,E-Wallet,No
+1849,45,Female,66,110,Month-to-Month,DSL,2,UPI,No
+1850,54,Female,50,101,Month-to-Month,DSL,3,UPI,Yes
+1851,58,Female,67,111,Month-to-Month,Fiber,3,Credit Card,Yes
+1852,53,Female,49,70,Two Year,Fiber,3,UPI,No
+1853,44,Male,36,66,Two Year,Fiber,3,Credit Card,No
+1854,71,Female,68,23,One Year,None,0,E-Wallet,No
+1855,34,Male,41,26,Two Year,Fiber,1,Credit Card,No
+1856,26,Female,62,54,One Year,DSL,2,Bank Transfer,Yes
+1857,50,Male,10,67,One Year,Fiber,1,Bank Transfer,Yes
+1858,70,Male,21,92,Month-to-Month,DSL,4,Credit Card,Yes
+1859,37,Female,36,91,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1860,30,Male,12,64,One Year,DSL,1,E-Wallet,Yes
+1861,45,Male,2,100,One Year,DSL,4,Bank Transfer,Yes
+1862,65,Female,13,100,Month-to-Month,DSL,1,Credit Card,Yes
+1863,46,Male,53,116,Two Year,DSL,2,E-Wallet,No
+1864,30,Female,32,115,Month-to-Month,Fiber,4,Bank Transfer,Yes
+1865,63,Female,16,91,Month-to-Month,DSL,2,E-Wallet,Yes
+1866,52,Female,32,38,One Year,Fiber,3,Credit Card,No
+1867,23,Male,32,82,One Year,Fiber,1,Bank Transfer,No
+1868,35,Male,11,57,One Year,DSL,2,E-Wallet,No
+1869,68,Male,10,86,Month-to-Month,Fiber,1,E-Wallet,Yes
+1870,22,Female,15,78,Month-to-Month,DSL,3,Bank Transfer,Yes
+1871,64,Male,17,88,One Year,None,3,E-Wallet,No
+1872,42,Female,40,32,One Year,Fiber,1,E-Wallet,No
+1873,19,Female,18,66,Month-to-Month,DSL,3,Credit Card,No
+1874,27,Male,55,80,One Year,Fiber,3,Credit Card,No
+1875,73,Female,25,50,Month-to-Month,Fiber,3,Credit Card,Yes
+1876,47,Male,59,99,One Year,Fiber,2,Credit Card,Yes
+1877,67,Male,22,115,Two Year,None,0,Credit Card,No
+1878,62,Male,30,41,Month-to-Month,DSL,4,Credit Card,Yes
+1879,22,Male,44,112,Month-to-Month,None,1,Bank Transfer,No
+1880,72,Male,32,105,One Year,None,2,Credit Card,Yes
+1881,73,Female,51,62,One Year,Fiber,2,E-Wallet,No
+1882,50,Female,46,86,One Year,Fiber,1,Bank Transfer,No
+1883,71,Female,21,73,Two Year,DSL,2,E-Wallet,No
+1884,18,Male,32,29,Two Year,Fiber,6,Credit Card,No
+1885,35,Male,39,61,Two Year,Fiber,0,Credit Card,No
+1886,49,Male,12,83,Month-to-Month,Fiber,4,E-Wallet,Yes
+1887,64,Female,47,40,Month-to-Month,DSL,2,E-Wallet,No
+1888,66,Male,18,99,Month-to-Month,DSL,1,E-Wallet,Yes
+1889,28,Female,21,95,Month-to-Month,Fiber,2,UPI,Yes
+1890,38,Female,13,85,One Year,Fiber,4,UPI,Yes
+1891,43,Male,21,60,Month-to-Month,DSL,1,UPI,No
+1892,42,Male,8,43,Two Year,DSL,2,UPI,No
+1893,39,Female,46,54,One Year,Fiber,2,Bank Transfer,No
+1894,44,Male,7,75,One Year,DSL,5,Credit Card,Yes
+1895,66,Female,23,49,Month-to-Month,Fiber,1,E-Wallet,Yes
+1896,30,Male,22,76,Month-to-Month,Fiber,0,Credit Card,Yes
+1897,50,Male,22,113,Month-to-Month,DSL,2,E-Wallet,Yes
+1898,51,Female,29,66,Month-to-Month,DSL,1,Credit Card,Yes
+1899,58,Male,13,54,Month-to-Month,Fiber,0,Bank Transfer,No
+1900,52,Female,2,38,One Year,DSL,1,UPI,Yes
+1901,18,Male,29,27,Two Year,DSL,1,Credit Card,No
+1902,38,Female,52,45,Two Year,DSL,2,E-Wallet,No
+1903,65,Female,27,90,One Year,DSL,2,Credit Card,Yes
+1904,72,Male,50,49,Month-to-Month,DSL,2,Bank Transfer,No
+1905,23,Female,23,26,Two Year,Fiber,0,Bank Transfer,No
+1906,45,Male,44,86,Two Year,Fiber,3,Credit Card,No
+1907,34,Male,22,84,Month-to-Month,Fiber,1,UPI,Yes
+1908,22,Male,43,55,One Year,Fiber,1,E-Wallet,No
+1909,48,Female,37,44,Month-to-Month,DSL,3,Bank Transfer,No
+1910,22,Female,61,56,Two Year,DSL,1,Bank Transfer,No
+1911,55,Male,56,20,Two Year,Fiber,0,Credit Card,No
+1912,20,Male,3,34,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1913,70,Female,63,56,Two Year,Fiber,2,Bank Transfer,No
+1914,40,Male,19,32,One Year,Fiber,2,E-Wallet,Yes
+1915,54,Male,23,27,Two Year,DSL,1,UPI,No
+1916,70,Female,29,24,Month-to-Month,Fiber,1,E-Wallet,Yes
+1917,54,Male,30,79,Two Year,DSL,4,UPI,No
+1918,27,Female,39,92,Month-to-Month,None,3,E-Wallet,No
+1919,27,Male,25,20,Month-to-Month,Fiber,0,Credit Card,No
+1920,36,Female,8,55,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1921,34,Male,58,54,Two Year,Fiber,3,UPI,No
+1922,38,Male,16,85,Two Year,DSL,3,Credit Card,No
+1923,31,Female,72,82,Two Year,DSL,1,Bank Transfer,No
+1924,26,Male,1,42,Two Year,Fiber,2,Bank Transfer,No
+1925,63,Female,5,28,Month-to-Month,DSL,3,Bank Transfer,Yes
+1926,18,Male,3,53,Month-to-Month,DSL,1,E-Wallet,Yes
+1927,68,Female,65,65,Month-to-Month,Fiber,0,Credit Card,No
+1928,62,Female,4,97,Month-to-Month,Fiber,2,Credit Card,Yes
+1929,30,Female,64,23,Month-to-Month,DSL,3,Bank Transfer,No
+1930,21,Female,10,49,Month-to-Month,DSL,2,UPI,Yes
+1931,18,Male,21,114,Month-to-Month,DSL,3,Credit Card,Yes
+1932,66,Male,46,94,Month-to-Month,DSL,0,E-Wallet,Yes
+1933,57,Female,27,118,Month-to-Month,DSL,2,UPI,Yes
+1934,49,Female,66,91,Month-to-Month,Fiber,4,UPI,Yes
+1935,51,Female,41,22,Two Year,DSL,4,UPI,No
+1936,45,Male,13,33,One Year,None,2,UPI,No
+1937,48,Male,9,79,Two Year,DSL,2,Credit Card,No
+1938,25,Male,36,96,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1939,56,Male,58,64,Month-to-Month,Fiber,1,UPI,No
+1940,43,Female,54,115,One Year,Fiber,0,E-Wallet,No
+1941,51,Female,12,53,Month-to-Month,Fiber,2,E-Wallet,Yes
+1942,71,Female,14,64,Month-to-Month,Fiber,0,Bank Transfer,No
+1943,71,Male,34,80,Month-to-Month,DSL,1,Credit Card,No
+1944,20,Male,53,102,Month-to-Month,DSL,3,Bank Transfer,No
+1945,67,Male,20,35,Month-to-Month,Fiber,0,UPI,Yes
+1946,29,Female,16,85,Month-to-Month,DSL,2,Credit Card,Yes
+1947,18,Female,70,59,One Year,Fiber,1,Credit Card,No
+1948,71,Male,56,36,Month-to-Month,Fiber,2,UPI,Yes
+1949,61,Female,58,53,Month-to-Month,Fiber,0,E-Wallet,No
+1950,22,Male,4,35,Two Year,DSL,2,UPI,No
+1951,47,Male,4,79,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1952,47,Female,20,85,Month-to-Month,Fiber,3,UPI,Yes
+1953,74,Male,10,85,Two Year,Fiber,3,E-Wallet,Yes
+1954,34,Female,24,109,Month-to-Month,DSL,2,UPI,Yes
+1955,65,Male,26,32,Month-to-Month,Fiber,2,Bank Transfer,Yes
+1956,64,Female,37,75,Month-to-Month,DSL,2,Bank Transfer,No
+1957,40,Female,54,50,Month-to-Month,DSL,0,E-Wallet,No
+1958,32,Female,21,53,One Year,DSL,2,Bank Transfer,Yes
+1959,54,Male,38,58,Two Year,None,2,Bank Transfer,No
+1960,38,Male,46,86,Month-to-Month,Fiber,1,UPI,Yes
+1961,31,Female,4,27,One Year,Fiber,3,Credit Card,No
+1962,19,Female,60,106,Month-to-Month,DSL,1,Bank Transfer,No
+1963,28,Male,57,97,Month-to-Month,Fiber,1,Bank Transfer,Yes
+1964,68,Male,45,74,One Year,DSL,2,E-Wallet,No
+1965,56,Male,20,46,Month-to-Month,DSL,1,E-Wallet,Yes
+1966,55,Female,17,112,Month-to-Month,DSL,1,UPI,Yes
+1967,51,Male,71,72,Month-to-Month,None,0,UPI,No
+1968,55,Male,4,58,Month-to-Month,None,3,Bank Transfer,Yes
+1969,67,Female,14,84,Month-to-Month,DSL,2,Credit Card,Yes
+1970,51,Male,3,36,Two Year,Fiber,2,Credit Card,No
+1971,35,Male,58,49,Month-to-Month,DSL,4,UPI,Yes
+1972,47,Male,55,72,Month-to-Month,Fiber,1,E-Wallet,Yes
+1973,32,Female,4,32,Month-to-Month,Fiber,3,Bank Transfer,Yes
+1974,44,Female,24,40,One Year,DSL,2,Bank Transfer,Yes
+1975,68,Female,34,38,One Year,Fiber,2,Credit Card,Yes
+1976,51,Female,30,72,One Year,Fiber,1,UPI,Yes
+1977,69,Female,19,38,One Year,Fiber,3,Credit Card,Yes
+1978,74,Female,31,76,Two Year,DSL,1,Credit Card,No
+1979,55,Female,60,44,Month-to-Month,DSL,2,UPI,No
+1980,50,Male,60,105,Month-to-Month,DSL,1,E-Wallet,Yes
+1981,41,Male,19,50,Two Year,Fiber,3,Bank Transfer,No
+1982,32,Female,49,100,Two Year,DSL,3,E-Wallet,No
+1983,47,Male,63,74,Two Year,DSL,1,UPI,No
+1984,72,Male,22,42,Month-to-Month,Fiber,2,UPI,Yes
+1985,59,Female,24,51,Month-to-Month,Fiber,0,Bank Transfer,Yes
+1986,68,Male,30,81,Month-to-Month,Fiber,2,E-Wallet,Yes
+1987,34,Male,58,93,One Year,None,2,Bank Transfer,No
+1988,22,Male,31,29,Month-to-Month,DSL,0,Credit Card,Yes
+1989,46,Male,64,119,Month-to-Month,None,3,Credit Card,Yes
+1990,21,Male,19,91,Two Year,Fiber,4,Credit Card,No
+1991,27,Female,48,73,Month-to-Month,DSL,0,E-Wallet,No
+1992,73,Female,45,71,Two Year,DSL,3,Credit Card,No
+1993,34,Female,55,39,Month-to-Month,DSL,1,Bank Transfer,No
+1994,27,Male,55,51,Month-to-Month,None,2,E-Wallet,No
+1995,34,Female,18,33,Month-to-Month,Fiber,3,Bank Transfer,No
+1996,37,Male,63,69,One Year,Fiber,2,UPI,No
+1997,41,Male,47,47,Month-to-Month,DSL,0,E-Wallet,No
+1998,22,Male,57,72,Month-to-Month,DSL,0,Bank Transfer,Yes
+1999,51,Male,45,43,Two Year,DSL,1,Bank Transfer,No
+2000,23,Female,33,98,Month-to-Month,Fiber,4,E-Wallet,Yes

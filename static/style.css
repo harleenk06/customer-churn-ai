@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background: #05070f;
+    color: white;
+    overflow-x: hidden;
+}
+
+/* BACKGROUND GLOW */
+.bg {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background:
+        radial-gradient(circle at 20% 20%, #3b82f6 0%, transparent 35%),
+        radial-gradient(circle at 80% 70%, #10b981 0%, transparent 35%);
+    filter: blur(80px);
+    opacity: 0.3;
+    z-index: -1;
+}
+
+/* CENTER CONTAINER */
+.container {
+    max-width: 700px;
+    margin: auto;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+/* TITLE */
+.title h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.title p {
+    color: #9ca3af;
+}
+
+/* CARD */
+.card {
+    margin-top: 30px;
+    padding: 30px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+}
+
+/* GRID */
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+/* INPUTS */
+input, select {
+    padding: 14px;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,0.1);
+    background: rgba(255,255,255,0.03);
+    color: white;
+    outline: none;
+    transition: 0.3s;
+}
+
+input:focus, select:focus {
+    border-color: #3b82f6;
+    transform: scale(1.03);
+}
+
+/* BUTTON */
+button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #3b82f6, #10b981);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    transform: scale(1.03);
+}
+
+/* RESULT */
+.result {
+    margin-top: 25px;
+    padding: 20px;
+    border-radius: 16px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+}

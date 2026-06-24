@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Churn AI Predictor</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="bg"></div>
+
+<div class="container">
+
+    <div class="title">
+        <h1>Customer Churn AI</h1>
+        <p>Predict whether a customer will stay or leave</p>
+    </div>
+
+    <form class="card" action="/predict" method="POST">
+
+        <div class="grid">
+
+            <input type="number" name="Age" placeholder="Age" required>
+            <input type="number" name="Tenure" placeholder="Tenure" required>
+            <input type="number" name="MonthlyCharges" placeholder="Monthly Charges" required>
+            <input type="number" name="SupportCalls" placeholder="Support Calls" required>
+
+            <select name="Gender" required>
+                <option value="">Gender</option>
+                <option>Male</option>
+                <option>Female</option>
+            </select>
+
+            <select name="ContractType" required>
+                <option value="">Contract</option>
+                <option>Month-to-Month</option>
+                <option>One Year</option>
+                <option>Two Year</option>
+            </select>
+
+            <select name="InternetService" required>
+                <option value="">Internet</option>
+                <option>Fiber</option>
+                <option>Unknown</option>
+            </select>
+
+            <select name="PaymentMethod" required>
+                <option value="">Payment</option>
+                <option>Credit Card</option>
+                <option>E-Wallet</option>
+                <option>UPI</option>
+            </select>
+
+        </div>
+
+        <button type="submit">Predict</button>
+
+    </form>
+
+    {% if prediction_text %}
+    <div class="result">
+        <h2>{{ prediction_text }}</h2>
+        {% if confidence %}
+        <p>Confidence: {{ confidence }}%</p>
+        {% endif %}
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>
